@@ -1,5 +1,5 @@
 $(document).ready(function() {
   $(".owl-carousel").owlCarousel();
 
-   $("#lightgallery").lightGallery();
+  $("#lightgallery").lightGallery();
 });
